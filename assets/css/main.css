@@ -1463,6 +1463,8 @@ section,
 .starter-section {
   /* Add your styles here */
 }
-.img-fluid{
-    max-width: 90%!important;
+.img-fluid{    box-shadow: 5px 10px #888888;
+    border-radius: 2px;
+    border: 2px solid #eee;
+    max-width: 90% !important;
   }
