@@ -1161,7 +1161,7 @@ section,
 }
 
 .portfolio-details .swiper-wrapper {
-  height: auto;
+  height: 400px;
 }
 
 .portfolio-details .swiper-button-prev,
@@ -1468,3 +1468,7 @@ section,
     border: 2px solid #eee;
     max-width: 90% !important;
   }
+  .must-have{
+    font-size: 22px;
+    font-weight: 700;
+}
